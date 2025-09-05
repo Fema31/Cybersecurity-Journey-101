@@ -93,7 +93,7 @@ This is the heart of the operation. Here are my detailed field notes and debrief
 ### TryHackMe Operations
 | Room Name | Status | Notes Repository |
 | :--- | :--- | :--- |
-| **Introduction to Cyber Security** | 🟢 In Progress | [**📁 Introduction-to-Cyber-Security**](https://github.com/YourUsername/thm-complete-beginner) |
+| **Introduction to Cyber Security** | 🟢 In Progress | [**📁 Introduction-to-Cyber-Security**](https://github.com/Fema31/Introduction-to-Cyber-Security) |
 | **Pre Security Path** | 🟡 Planned | *Coming Soon* |
 
 ### Coursera Modules
