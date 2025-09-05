@@ -99,7 +99,7 @@ This is the heart of the operation. Here are my detailed field notes and debrief
 ### Coursera Modules
 | Course Module | Status | Notes Repository |
 | :--- | :--- | :--- |
-| **Foundations of Cybersecurity** | 🟢 In Progress| [**📁 coursera-foundations-cysec**](https://github.com/YourUsername/coursera-foundations-cysec) |
+| **Foundations of Cybersecurity** | 🟢 In Progress| [**📁 Introduction-to-Cyber-Security**](https://github.com/Fema31/Introduction-to-Cyber-Security) |
 | **Play It Safe: Manage Security Risks** | 🟡 Planned | *Coming Soon* |
 
 ### Personal Projects
