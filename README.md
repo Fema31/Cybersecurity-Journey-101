@@ -265,7 +265,7 @@ This is the heart of the operation. Here are my detailed field notes and debrief
 ### Security Cases
 | Project Name | Description | Status | Repository |
 | :--- | :--- | :--- | :--- |
-| **Asahi Cyberattack** | A walkthrough of analyzing a suspicious file. | 🟢 In Progress | [**Asahi-Cyberattack-2025**] (https://github.com/Fema31/Asahi-Cyberattack-2025)|
+| **Asahi Cyberattack** | A walkthrough of analyzing a suspicious file. | 🟢 In Progress | **📁 Asahi-Cyberattack-2025** (https://github.com/Fema31/Asahi-Cyberattack-2025)|
 
 ---
 
